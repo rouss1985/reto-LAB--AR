@@ -1,0 +1,212 @@
+/* Los estilos de tu proyecto */
+*{
+  margin: 0;
+  padding: 0;
+}
+.container-fluid {
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+}
+.logo1{
+    padding: 4%;
+}
+ul.nav.nav-tabs {
+    padding-top: 9%;
+}
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    /* border-radius: 4px 4px 0 0; */
+}
+navs.less:23
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+bootstrap.css:1100
+a {
+    color: #9ea5ab;
+    text-decoration: none;
+}
+#hero1{
+  background-image: url("../assets/images/taxi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 90vh;
+}
+.logWhite {
+    float: right;
+    padding-top: 5%;
+    padding-right: 49%;
+}
+.Viaja{
+  float: left;
+  padding-top: 5%;
+}
+#btnMovil{
+  display: none;
+}
+#titleMovil{
+  display: none;
+}
+p {
+    padding: top: 9%;
+    text-align: center;
+}
+.btn-default {
+    color: #333;
+    background-color: #f7b617;
+    border-color: #ccc;
+    padding-top: 2%;
+    margin-top: 4%;
+    opacity: 100;
+    filter:  alpha(opacity=100);
+}
+#regis{
+  margin-left: -15%;
+}
+.container-Yellow{
+  background: #f7b617;
+  padding:20px;
+  margin-top: 25%;
+}
+#yel{
+  background:#f7b617;
+  width: 100%;
+  height: 400px;
+}
+#yellow{
+  background: #f7b617;
+}
+p {
+  color: #fff;
+}
+#title{
+  color: #fff;
+  margin-top: 30%;
+}
+#parraf{
+  margin-top: 10%;
+}
+.tel{
+  width: 55%;
+  margin-left: 10%;
+  margin-top: 20%;
+}
+.white {
+    color: #fff;
+    font-size: 30px;
+    padding-top: 5px;
+}
+.Pmovil{
+  display: none;
+}
+.content-border {
+    border: 2px solid #fff;
+    /* margin-left: 0; */
+    padding-left: 76px;
+    border-left: none;
+    margin-left: -16px;
+    margin-top: 2%;
+    margin-right: 19%;
+}
+.container-transparent{
+  background: black;
+  opacity: 0.4;
+  filter:  alpha(opacity=50);
+  height: 50vh;
+  margin: auto;
+  padding-left: 10%;
+  padding-top: 25%;
+}
+#hero2{
+  background-image: url("../assets/images/conduce.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 60vh;
+}
+#yellow2{
+  background: #f7b617;
+}
+#text{
+  width: 50%;
+  background: #f7b617;
+  border-color: #fff;
+  color:#fff;
+}
+.bolita{
+  width: 3%;
+  height: 3%;
+  float: left;
+  margin-left: 5%;
+}
+img.bolita {
+    margin-left: 15%;
+}
+img.flechita {
+    margin-left: 15%;
+}
+input#text {
+    margin-left: 21%;
+}
+.flechita1{
+  margin-right: 3%;
+}
+.TextTarif{
+  color:#fff;
+  margin-left: 15%;
+}
+#botoncito{
+  background: #fff;
+  margin-left: 15%;
+}
+.bolita1 flechita1{
+  margin-left: 15%;
+}
+.mapita{
+  margin-left: 20%;
+  padding: 3%;
+  border-color: #fff;
+  margin: 5%;
+}
+#footer{
+  background: #2b2b2b;
+  width: 100%;
+  height: 700px;
+}
+.LBlanco{
+margin: 5%;
+}
+.contentLogo{
+  border-bottom: 1px solid #fff;
+  margin: 5%;
+}
+.footerlist{
+  text-align: left;
+}
+.imagenF1{
+  padding-top: 35%;
+}
+.imagenF2{
+  padding-top: 5%;
+}
+#social{
+  border-bottom: 1px solid #fff;
+  margin: 5%;
+}
+.pFooter{
+  text-align: left;
+  margin-left: 4%;
+  margin-top: -4%;
+}
+.icons{
+  color: #fff;
+  font-size: 20px;
+  padding: 3px;
+}

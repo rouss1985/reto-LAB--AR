@@ -1,0 +1,64 @@
+@media (max-width:768px) {
+  #hero1{
+    background-image: url("../assets/images/taxi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 90vh;
+  }
+  .white {
+    display: none;
+  }
+  #regis{
+    display: none;
+  }
+  #btnMovil{
+    display: block;
+    background-color: #fff;
+  }
+  .btn2Movil{
+    display: none;
+  }
+  #title{
+    display: none;
+  }
+  #parraf{
+    display: none;
+  }
+  .rayas{
+    display: none;
+  }
+  .Pmovil{
+    display: inline;
+    float: left;
+  }
+  .Viaja{
+    display: none;
+  }
+  #yel{
+    background:#f7b617;
+    width: 100%;
+    height: 600px;
+  }
+  .tel{
+    width: 80%;
+    text-align: center;
+    height: 350px;
+  }
+  .container-Yellow{
+    height: 200px;
+  }
+  .container-transparent{
+    width: 100%;
+  }
+  .mapita{
+    width: 90%;
+    text-align: center;
+  }
+  #foMovil{
+    display: none;
+  }
+  .iconsSocial{
+    float: right;
+  }
+}
